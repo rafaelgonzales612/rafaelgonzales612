@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rafael!
 - 👀 I’m interested in all things gaming!
-- 🌱 I’m currently learning Unreal Engine w/ Blueprints, Reaper, Sound Design, and Front-End Software Engineering!
-- 💞️ I’m looking to collaborate on games!
+- 🌱 I’m currently learning Data Analytics, Web Development, Game and Sound Design! 
+- 💞️ I’m looking to collaborate on data projects, building websites, and any and all game projects!
 - 📫 How to reach me: rafgonz1222@gmail.com
 
 <!---
