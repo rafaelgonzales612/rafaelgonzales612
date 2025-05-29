@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rafael!
 - 👀 I’m interested in all things gaming!
-- 🌱 I’m currently learning Cybersecurity, Data Analytics, Web Development, Game and Sound Design! 
-- 💞️ I’m looking to collaborate on data projects, building websites, and any and all game projects!
+- 🌱 I’m currently learning Data Analytics and learning Game Design as a hobby! 
+- 💞️ I’m looking to collaborate on data projects, and any and all game projects!
 - 📫 How to reach me: rafgonz1222@gmail.com
 
 <!---
